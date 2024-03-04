@@ -5,6 +5,7 @@
 #include<fstream>
 using namespace std;
 
+//class to store information about Product
 class Product
 {
     private:
@@ -65,6 +66,7 @@ class Product
         }
 };
 
+//class to store Inventory related details and its functions
 class Inventory
 {
     private:
